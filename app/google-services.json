@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707005287492",
+    "firebase_url": "https://alex-e7b44.firebaseio.com",
+    "project_id": "alex-e7b44",
+    "storage_bucket": "alex-e7b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707005287492:android:bd4f62541f24488fa68011",
+        "android_client_info": {
+          "package_name": "com.alexcrue.comicreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707005287492-lfrmn9hmuqah81hbpqjiaefeknnbfhk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiUlUKRbwZp0LoAtM7FHXaF8F_4ydSyR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707005287492-rtq6i35dfjj1ot5aasspdq0qcn08l5hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
